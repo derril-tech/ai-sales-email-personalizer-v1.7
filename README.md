@@ -4,8 +4,6 @@
 
 A production-ready, full-stack application that leverages CrewAI agents to generate highly personalized B2B sales emails. Built with Next.js 15, FastAPI, Supabase, and OpenAI.
 
-**🌐 Live Application:** [https://sales-email-personalizer-api.vercel.app/](https://sales-email-personalizer-api.vercel.app/)
-
 ---
 
 ## 🎯 Overview
